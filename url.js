@@ -1,1 +1,1 @@
-var baseUrl = "https://zh.googlebeevil.ru/";
+var baseUrl = "https://zh.zbeijing.ru/";
